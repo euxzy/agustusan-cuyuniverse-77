@@ -1,6 +1,6 @@
 # Perlawanan Perjajahan 1945
 
-Jelaskan Filosfi website anda yang anda buat, dengan sebaik mungkin.
+Website ini berisi sekumpulan peristiwa yang terjadi menjelang hari kemerdekaan Indonesia.
 
 ## Pengumpulan Lomba CuyUniverse
 
